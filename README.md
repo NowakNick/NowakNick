@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick
 - 👀 I’m interested in sports, gaming, cooking / baking and of course programming
-- 👨‍🎓 I’m currently studying mechatronics and soon computer science
+- 👨‍🎓 I’m currently studying computer science / Software Engineering 
 - 👨‍💻 Previously worked with: C, C++, C#, Java, HTML, CSS, JS, TS, Vue.js
 
 <!---
