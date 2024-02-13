@@ -7,7 +7,7 @@
   - Google Cloud, Firebase
   - MongoDB, Firestore
   - Oracle APEX 
-  - C#, HTML, JS, TS, CSS, PL/SQLL
+  - C#, HTML, JS, TS, CSS, PL/SQL, Java
 
 <!---
 NowakNick/NowakNick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
