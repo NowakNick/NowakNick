@@ -1,12 +1,13 @@
+# About me
 - 👋 Hi, I’m Nick
-- 👀 I’m interested in sports, gaming, cooking / baking and of course programming
-- 👨‍🎓 I’m am currently studying computer science (M.Sc.). Before that I have studied mechatronics (B.Sc.). My fokus is on software engineering.
+- 👨‍🎓 I’m am currently studying computer science (M.Sc.) with a specialization in software engineering. Before that I studied mechatronics and digital production (B.Sc.)
+- 👀 My hobbies are sports, gaming, food and of course programming
 - 👨‍💻 Previously worked with:
-  - Vue.js, React, Bootstrap, Vuetify, Node.js 
+  - Vue.js, Vuetify, Node.js
+  - Google Cloud, Firebase
+  - MongoDB, Firestore
   - Oracle APEX 
-  - Google Cloud, Firebase 
-  - MS Server, MongoDB, Firestore 
-  - C#, Python, C, Java, HTML, JS, TS, SQL, Scala
+  - C#, HTML, JS, TS, CSS, PL/SQLL
 
 <!---
 NowakNick/NowakNick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
